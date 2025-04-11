@@ -53,7 +53,7 @@ Após implementar o CRUD para as entidades, implemente os seguintes métodos:
 
 Aqui são listados algumas sugestões para você que quer ir além do desafio inicial. Lembrando que você não precisa se limitar a essas sugestões, se tiver pensado em outra funcionalidade que considera relevante ao escopo da aplicação fique à vontade para implementá-la.
 
-* `Paradas por Posição`: Implementar um método que recebe uma posição (lat, long) como parâmetro e retorna as paradas mais proximas a posição informada.
+* `Oder por Posição`: Implementar um método que recebe uma posição (lat, long) como parâmetro e retorna as Order mais proximas a posição informada.
 
 * **Documentação**: Gerar a documentação da API de forma automatizada, utilizando o `swagger` ou equivalentes
 
